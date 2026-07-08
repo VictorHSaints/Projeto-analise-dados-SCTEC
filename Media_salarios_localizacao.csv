@@ -1,0 +1,20 @@
+"DEPARTAMENTO","CARGOS","CIDADE","PAIS","REGIAO","MEDIA_SALARIAL"
+"Executive","President","Seattle","United States of America","Americas",24000
+"Executive","Administration Vice President","Seattle","United States of America","Americas",17000
+"Marketing","Marketing Manager","Toronto","Canada","Americas",13000
+"Sales","Sales Manager","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",12200
+"Accounting","Accounting Manager","Seattle","United States of America","Americas",12008
+"Finance","Finance Manager","Seattle","United States of America","Americas",12008
+"Purchasing","Purchasing Manager","Seattle","United States of America","Americas",11000
+"Public Relations","Public Relations Representative","Munich","Germany","Europe",10000
+"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",8396.55
+"Accounting","Public Accountant","Seattle","United States of America","Americas",8300
+"Finance","Accountant","Seattle","United States of America","Americas",7920
+"Shipping","Stock Manager","South San Francisco","United States of America","Americas",7280
+"Human Resources","Human Resources Representative","London","United Kingdom of Great Britain and Northern Ireland","Europe",6500
+"Marketing","Marketing Representative","Toronto","Canada","Americas",6000
+"IT","Programmer","Southlake","United States of America","Americas",5760
+"Administration","Administration Assistant","Seattle","United States of America","Americas",4400
+"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3215
+"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2785
+"Purchasing","Purchasing Clerk","Seattle","United States of America","Americas",2780
