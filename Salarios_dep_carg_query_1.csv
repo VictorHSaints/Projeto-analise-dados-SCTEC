@@ -1,107 +1,107 @@
-"DEPARTAMENTO","CARGOS","SALARIO"
-"Executive","President",24000
-"Executive","Administration Vice President",17000
-"Executive","Administration Vice President",17000
-"Sales","Sales Manager",14000
-"Sales","Sales Manager",13500
-"Marketing","Marketing Manager",13000
-"Finance","Finance Manager",12008
-"Accounting","Accounting Manager",12008
-"Sales","Sales Manager",12000
-"Sales","Sales Representative",11500
-"Sales","Sales Representative",11000
-"Purchasing","Purchasing Manager",11000
-"Sales","Sales Manager",11000
-"Sales","Sales Manager",10500
-"Sales","Sales Representative",10500
-"Sales","Sales Representative",10000
-"Public Relations","Public Relations Representative",10000
-"Sales","Sales Representative",10000
-"Sales","Sales Representative",10000
-"Sales","Sales Representative",9600
-"Sales","Sales Representative",9500
-"Sales","Sales Representative",9500
-"Sales","Sales Representative",9500
-"Sales","Sales Representative",9000
-"Sales","Sales Representative",9000
-"IT","Programmer",9000
-"Finance","Accountant",9000
-"Sales","Sales Representative",8800
-"Sales","Sales Representative",8600
-"Sales","Sales Representative",8400
-"Accounting","Public Accountant",8300
-"Shipping","Stock Manager",8200
-"Finance","Accountant",8200
-"Shipping","Stock Manager",8000
-"Sales","Sales Representative",8000
-"Sales","Sales Representative",8000
-"Shipping","Stock Manager",7900
-"Finance","Accountant",7800
-"Finance","Accountant",7700
-"Sales","Sales Representative",7500
-"Sales","Sales Representative",7500
-"Sales","Sales Representative",7400
-"Sales","Sales Representative",7300
-"Sales","Sales Representative",7200
-"Sales","Sales Representative",7000
-"Sales","Sales Representative",7000
-"Finance","Accountant",6900
-"Sales","Sales Representative",6800
-"Shipping","Stock Manager",6500
-"Human Resources","Human Resources Representative",6500
-"Sales","Sales Representative",6400
-"Sales","Sales Representative",6200
-"Sales","Sales Representative",6200
-"Sales","Sales Representative",6100
-"IT","Programmer",6000
-"Marketing","Marketing Representative",6000
-"Shipping","Stock Manager",5800
-"IT","Programmer",4800
-"IT","Programmer",4800
-"Administration","Administration Assistant",4400
-"IT","Programmer",4200
-"Shipping","Shipping Clerk",4200
-"Shipping","Shipping Clerk",4100
-"Shipping","Shipping Clerk",4000
-"Shipping","Shipping Clerk",3900
-"Shipping","Shipping Clerk",3800
-"Shipping","Stock Clerk",3600
-"Shipping","Shipping Clerk",3600
-"Shipping","Stock Clerk",3500
-"Shipping","Shipping Clerk",3400
-"Shipping","Stock Clerk",3300
-"Shipping","Stock Clerk",3300
-"Shipping","Shipping Clerk",3200
-"Shipping","Stock Clerk",3200
-"Shipping","Stock Clerk",3200
-"Shipping","Shipping Clerk",3200
-"Purchasing","Purchasing Clerk",3100
-"Shipping","Stock Clerk",3100
-"Shipping","Shipping Clerk",3100
-"Shipping","Shipping Clerk",3100
-"Shipping","Shipping Clerk",3000
-"Shipping","Shipping Clerk",3000
-"Purchasing","Purchasing Clerk",2900
-"Shipping","Stock Clerk",2900
-"Shipping","Shipping Clerk",2900
-"Purchasing","Purchasing Clerk",2800
-"Shipping","Stock Clerk",2800
-"Shipping","Shipping Clerk",2800
-"Shipping","Shipping Clerk",2800
-"Shipping","Stock Clerk",2700
-"Shipping","Stock Clerk",2700
-"Purchasing","Purchasing Clerk",2600
-"Shipping","Stock Clerk",2600
-"Shipping","Shipping Clerk",2600
-"Shipping","Shipping Clerk",2600
-"Purchasing","Purchasing Clerk",2500
-"Shipping","Shipping Clerk",2500
-"Shipping","Stock Clerk",2500
-"Shipping","Stock Clerk",2500
-"Shipping","Stock Clerk",2500
-"Shipping","Shipping Clerk",2500
-"Shipping","Stock Clerk",2400
-"Shipping","Stock Clerk",2400
-"Shipping","Stock Clerk",2200
-"Shipping","Stock Clerk",2200
-"Shipping","Stock Clerk",2100
+"ID","DEPARTAMENTO","CARGOS","SALARIO"
+100,"Executive","President",24000
+102,"Executive","Administration Vice President",17000
+101,"Executive","Administration Vice President",17000
+145,"Sales","Sales Manager",14000
+146,"Sales","Sales Manager",13500
+201,"Marketing","Marketing Manager",13000
+108,"Finance","Finance Manager",12008
+205,"Accounting","Accounting Manager",12008
+147,"Sales","Sales Manager",12000
+168,"Sales","Sales Representative",11500
+174,"Sales","Sales Representative",11000
+114,"Purchasing","Purchasing Manager",11000
+148,"Sales","Sales Manager",11000
+149,"Sales","Sales Manager",10500
+162,"Sales","Sales Representative",10500
+156,"Sales","Sales Representative",10000
+204,"Public Relations","Public Relations Representative",10000
+150,"Sales","Sales Representative",10000
+169,"Sales","Sales Representative",10000
+170,"Sales","Sales Representative",9600
+163,"Sales","Sales Representative",9500
+151,"Sales","Sales Representative",9500
+157,"Sales","Sales Representative",9500
+152,"Sales","Sales Representative",9000
+158,"Sales","Sales Representative",9000
+103,"IT","Programmer",9000
+109,"Finance","Accountant",9000
+175,"Sales","Sales Representative",8800
+176,"Sales","Sales Representative",8600
+177,"Sales","Sales Representative",8400
+206,"Accounting","Public Accountant",8300
+121,"Shipping","Stock Manager",8200
+110,"Finance","Accountant",8200
+120,"Shipping","Stock Manager",8000
+153,"Sales","Sales Representative",8000
+159,"Sales","Sales Representative",8000
+122,"Shipping","Stock Manager",7900
+112,"Finance","Accountant",7800
+111,"Finance","Accountant",7700
+154,"Sales","Sales Representative",7500
+160,"Sales","Sales Representative",7500
+171,"Sales","Sales Representative",7400
+172,"Sales","Sales Representative",7300
+164,"Sales","Sales Representative",7200
+161,"Sales","Sales Representative",7000
+155,"Sales","Sales Representative",7000
+113,"Finance","Accountant",6900
+165,"Sales","Sales Representative",6800
+123,"Shipping","Stock Manager",6500
+203,"Human Resources","Human Resources Representative",6500
+166,"Sales","Sales Representative",6400
+167,"Sales","Sales Representative",6200
+179,"Sales","Sales Representative",6200
+173,"Sales","Sales Representative",6100
+104,"IT","Programmer",6000
+202,"Marketing","Marketing Representative",6000
+124,"Shipping","Stock Manager",5800
+105,"IT","Programmer",4800
+106,"IT","Programmer",4800
+200,"Administration","Administration Assistant",4400
+107,"IT","Programmer",4200
+184,"Shipping","Shipping Clerk",4200
+185,"Shipping","Shipping Clerk",4100
+192,"Shipping","Shipping Clerk",4000
+193,"Shipping","Shipping Clerk",3900
+188,"Shipping","Shipping Clerk",3800
+137,"Shipping","Stock Clerk",3600
+189,"Shipping","Shipping Clerk",3600
+141,"Shipping","Stock Clerk",3500
+186,"Shipping","Shipping Clerk",3400
+133,"Shipping","Stock Clerk",3300
+129,"Shipping","Stock Clerk",3300
+194,"Shipping","Shipping Clerk",3200
+138,"Shipping","Stock Clerk",3200
+125,"Shipping","Stock Clerk",3200
+180,"Shipping","Shipping Clerk",3200
+115,"Purchasing","Purchasing Clerk",3100
+142,"Shipping","Stock Clerk",3100
+181,"Shipping","Shipping Clerk",3100
+196,"Shipping","Shipping Clerk",3100
+197,"Shipping","Shipping Clerk",3000
+187,"Shipping","Shipping Clerk",3000
+116,"Purchasing","Purchasing Clerk",2900
+134,"Shipping","Stock Clerk",2900
+190,"Shipping","Shipping Clerk",2900
+117,"Purchasing","Purchasing Clerk",2800
+130,"Shipping","Stock Clerk",2800
+183,"Shipping","Shipping Clerk",2800
+195,"Shipping","Shipping Clerk",2800
+139,"Shipping","Stock Clerk",2700
+126,"Shipping","Stock Clerk",2700
+118,"Purchasing","Purchasing Clerk",2600
+143,"Shipping","Stock Clerk",2600
+199,"Shipping","Shipping Clerk",2600
+198,"Shipping","Shipping Clerk",2600
+119,"Purchasing","Purchasing Clerk",2500
+191,"Shipping","Shipping Clerk",2500
+144,"Shipping","Stock Clerk",2500
+140,"Shipping","Stock Clerk",2500
+131,"Shipping","Stock Clerk",2500
+182,"Shipping","Shipping Clerk",2500
+135,"Shipping","Stock Clerk",2400
+127,"Shipping","Stock Clerk",2400
+136,"Shipping","Stock Clerk",2200
+128,"Shipping","Stock Clerk",2200
+132,"Shipping","Stock Clerk",2100

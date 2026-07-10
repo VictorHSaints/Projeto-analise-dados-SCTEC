@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream:Salarios_localizacao_query_2.sql
 with dados_geograficos as(
     SELECT
         L.LOCATION_ID,
@@ -28,3 +29,36 @@ JOIN dados_geograficos DG
     ON D.LOCATION_ID = DG.LOCATION_ID
 Where E.SALARY > 0
 ORDER BY media_salarial DESC
+=======
+with dados_geograficos as(
+    SELECT
+        L.LOCATION_ID,
+        L.CITY AS cidade,
+        C.COUNTRY_NAME AS pais,
+        R.REGION_NAME AS regiao
+    FROM HR.LOCATIONS L
+    JOIN HR.COUNTRIES C
+        ON L.COUNTRY_ID = C.COUNTRY_ID
+    JOIN HR.REGIONS R
+        ON C.REGION_ID = R.REGION_ID
+) 
+
+
+SELECT 
+    E.EMPLOYEE_ID AS ID,
+    D.DEPARTMENT_NAME AS departamento,
+    J.JOB_TITLE AS cargos,
+    DG.cidade,
+    DG.Pais,
+    DG.regiao,
+    E.SALARY AS SALARIO
+FROM HR.EMPLOYEES E
+JOIN HR.DEPARTMENTS D
+    ON E.DEPARTMENT_ID = D.DEPARTMENT_ID
+JOIN HR.JOBS J
+    ON E.JOB_ID = J.JOB_ID
+JOIN dados_geograficos DG
+    ON D.LOCATION_ID = DG.LOCATION_ID
+Where E.SALARY > 0
+ORDER BY SALARIO DESC
+>>>>>>> Stashed changes:Doc/Salarios_localizacao_query_2.sql
