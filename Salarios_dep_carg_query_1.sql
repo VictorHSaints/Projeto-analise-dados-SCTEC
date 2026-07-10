@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream:Salarios_dep_carg_query_1.sql
 SELECT 
     D.DEPARTMENT_NAME AS Departamento,
     J.JOB_TITLE AS Cargos,
@@ -8,4 +9,17 @@ JOIN HR.DEPARTMENTS D
 JOIN HR.JOBS J
     ON E.JOB_ID = J.JOB_ID
 WHERE E.SALARY IS NOT NULL
+=======
+SELECT 
+    E.EMPLOYEE_ID AS ID,
+    D.DEPARTMENT_NAME AS Departamento,
+    J.JOB_TITLE AS Cargos,
+    E.SALARY AS Salario
+FROM HR.EMPLOYEES E
+JOIN HR.DEPARTMENTS D
+    ON E.DEPARTMENT_ID = D.DEPARTMENT_ID
+JOIN HR.JOBS J
+    ON E.JOB_ID = J.JOB_ID
+WHERE E.SALARY IS NOT NULL
+>>>>>>> Stashed changes:Doc/Salarios_dep_carg_query_1.sql
 ORDER BY Salario DESC

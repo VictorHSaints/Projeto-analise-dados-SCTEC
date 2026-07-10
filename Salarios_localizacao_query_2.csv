@@ -1,107 +1,107 @@
-"DEPARTAMENTO","CARGOS","CIDADE","PAIS","REGIAO","MEDIA_SALARIAL"
-"Executive","President","Seattle","United States of America","Americas",24000
-"Executive","Administration Vice President","Seattle","United States of America","Americas",17000
-"Executive","Administration Vice President","Seattle","United States of America","Americas",17000
-"Sales","Sales Manager","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",14000
-"Sales","Sales Manager","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",13500
-"Marketing","Marketing Manager","Toronto","Canada","Americas",13000
-"Finance","Finance Manager","Seattle","United States of America","Americas",12008
-"Accounting","Accounting Manager","Seattle","United States of America","Americas",12008
-"Sales","Sales Manager","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",12000
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",11500
-"Purchasing","Purchasing Manager","Seattle","United States of America","Americas",11000
-"Sales","Sales Manager","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",11000
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",11000
-"Sales","Sales Manager","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",10500
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",10500
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",10000
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",10000
-"Public Relations","Public Relations Representative","Munich","Germany","Europe",10000
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",10000
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",9600
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",9500
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",9500
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",9500
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",9000
-"IT","Programmer","Southlake","United States of America","Americas",9000
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",9000
-"Finance","Accountant","Seattle","United States of America","Americas",9000
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",8800
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",8600
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",8400
-"Accounting","Public Accountant","Seattle","United States of America","Americas",8300
-"Shipping","Stock Manager","South San Francisco","United States of America","Americas",8200
-"Finance","Accountant","Seattle","United States of America","Americas",8200
-"Shipping","Stock Manager","South San Francisco","United States of America","Americas",8000
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",8000
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",8000
-"Shipping","Stock Manager","South San Francisco","United States of America","Americas",7900
-"Finance","Accountant","Seattle","United States of America","Americas",7800
-"Finance","Accountant","Seattle","United States of America","Americas",7700
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",7500
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",7500
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",7400
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",7300
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",7200
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",7000
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",7000
-"Finance","Accountant","Seattle","United States of America","Americas",6900
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",6800
-"Human Resources","Human Resources Representative","London","United Kingdom of Great Britain and Northern Ireland","Europe",6500
-"Shipping","Stock Manager","South San Francisco","United States of America","Americas",6500
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",6400
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",6200
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",6200
-"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",6100
-"Marketing","Marketing Representative","Toronto","Canada","Americas",6000
-"IT","Programmer","Southlake","United States of America","Americas",6000
-"Shipping","Stock Manager","South San Francisco","United States of America","Americas",5800
-"IT","Programmer","Southlake","United States of America","Americas",4800
-"IT","Programmer","Southlake","United States of America","Americas",4800
-"Administration","Administration Assistant","Seattle","United States of America","Americas",4400
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",4200
-"IT","Programmer","Southlake","United States of America","Americas",4200
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",4100
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",4000
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3900
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3800
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3600
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",3600
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",3500
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3400
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",3300
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",3300
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",3200
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3200
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3200
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",3200
-"Purchasing","Purchasing Clerk","Seattle","United States of America","Americas",3100
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3100
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3100
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",3100
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3000
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3000
-"Purchasing","Purchasing Clerk","Seattle","United States of America","Americas",2900
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",2900
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2900
-"Purchasing","Purchasing Clerk","Seattle","United States of America","Americas",2800
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",2800
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",2800
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2800
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2700
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2700
-"Purchasing","Purchasing Clerk","Seattle","United States of America","Americas",2600
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",2600
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",2600
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2600
-"Purchasing","Purchasing Clerk","Seattle","United States of America","Americas",2500
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2500
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",2500
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2500
-"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",2500
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2500
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2400
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2400
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2200
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2200
-"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2100
+"ID","DEPARTAMENTO","CARGOS","CIDADE","PAIS","REGIAO","SALARIO"
+100,"Executive","President","Seattle","United States of America","Americas",24000
+101,"Executive","Administration Vice President","Seattle","United States of America","Americas",17000
+102,"Executive","Administration Vice President","Seattle","United States of America","Americas",17000
+145,"Sales","Sales Manager","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",14000
+146,"Sales","Sales Manager","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",13500
+201,"Marketing","Marketing Manager","Toronto","Canada","Americas",13000
+108,"Finance","Finance Manager","Seattle","United States of America","Americas",12008
+205,"Accounting","Accounting Manager","Seattle","United States of America","Americas",12008
+147,"Sales","Sales Manager","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",12000
+168,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",11500
+114,"Purchasing","Purchasing Manager","Seattle","United States of America","Americas",11000
+148,"Sales","Sales Manager","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",11000
+174,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",11000
+149,"Sales","Sales Manager","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",10500
+162,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",10500
+156,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",10000
+150,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",10000
+204,"Public Relations","Public Relations Representative","Munich","Germany","Europe",10000
+169,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",10000
+170,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",9600
+163,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",9500
+151,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",9500
+157,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",9500
+152,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",9000
+103,"IT","Programmer","Southlake","United States of America","Americas",9000
+158,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",9000
+109,"Finance","Accountant","Seattle","United States of America","Americas",9000
+175,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",8800
+176,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",8600
+177,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",8400
+206,"Accounting","Public Accountant","Seattle","United States of America","Americas",8300
+121,"Shipping","Stock Manager","South San Francisco","United States of America","Americas",8200
+110,"Finance","Accountant","Seattle","United States of America","Americas",8200
+120,"Shipping","Stock Manager","South San Francisco","United States of America","Americas",8000
+159,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",8000
+153,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",8000
+122,"Shipping","Stock Manager","South San Francisco","United States of America","Americas",7900
+112,"Finance","Accountant","Seattle","United States of America","Americas",7800
+111,"Finance","Accountant","Seattle","United States of America","Americas",7700
+160,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",7500
+154,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",7500
+171,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",7400
+172,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",7300
+164,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",7200
+161,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",7000
+155,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",7000
+113,"Finance","Accountant","Seattle","United States of America","Americas",6900
+165,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",6800
+203,"Human Resources","Human Resources Representative","London","United Kingdom of Great Britain and Northern Ireland","Europe",6500
+123,"Shipping","Stock Manager","South San Francisco","United States of America","Americas",6500
+166,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",6400
+179,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",6200
+167,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",6200
+173,"Sales","Sales Representative","Oxford","United Kingdom of Great Britain and Northern Ireland","Europe",6100
+202,"Marketing","Marketing Representative","Toronto","Canada","Americas",6000
+104,"IT","Programmer","Southlake","United States of America","Americas",6000
+124,"Shipping","Stock Manager","South San Francisco","United States of America","Americas",5800
+106,"IT","Programmer","Southlake","United States of America","Americas",4800
+105,"IT","Programmer","Southlake","United States of America","Americas",4800
+200,"Administration","Administration Assistant","Seattle","United States of America","Americas",4400
+184,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",4200
+107,"IT","Programmer","Southlake","United States of America","Americas",4200
+185,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",4100
+192,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",4000
+193,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3900
+188,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3800
+189,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3600
+137,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",3600
+141,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",3500
+186,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3400
+133,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",3300
+129,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",3300
+125,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",3200
+194,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3200
+180,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3200
+138,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",3200
+115,"Purchasing","Purchasing Clerk","Seattle","United States of America","Americas",3100
+196,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3100
+181,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3100
+142,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",3100
+197,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3000
+187,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",3000
+116,"Purchasing","Purchasing Clerk","Seattle","United States of America","Americas",2900
+190,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",2900
+134,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2900
+117,"Purchasing","Purchasing Clerk","Seattle","United States of America","Americas",2800
+195,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",2800
+183,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",2800
+130,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2800
+139,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2700
+126,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2700
+118,"Purchasing","Purchasing Clerk","Seattle","United States of America","Americas",2600
+199,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",2600
+198,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",2600
+143,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2600
+119,"Purchasing","Purchasing Clerk","Seattle","United States of America","Americas",2500
+131,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2500
+191,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",2500
+144,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2500
+182,"Shipping","Shipping Clerk","South San Francisco","United States of America","Americas",2500
+140,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2500
+135,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2400
+127,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2400
+136,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2200
+128,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2200
+132,"Shipping","Stock Clerk","South San Francisco","United States of America","Americas",2100
