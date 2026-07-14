@@ -1,4 +1,4 @@
-"ID","DEPARTAMENTO","CARGO","CIDADE","PAIS","REGIAO","SALARIO"
+"ID","DEPARTAMENTO","CARGOS","CIDADE","PAIS","REGIAO","SALARIO"
 100,"Executive","President","Seattle","United States of America","Americas",24000
 102,"Executive","Administration Vice President","Seattle","United States of America","Americas",17000
 101,"Executive","Administration Vice President","Seattle","United States of America","Americas",17000
