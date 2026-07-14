@@ -1,31 +1,30 @@
-with dados_geograficos as(
+WITH dados_geograficos AS (
     SELECT
         L.LOCATION_ID,
         L.CITY AS cidade,
         C.COUNTRY_NAME AS pais,
         R.REGION_NAME AS regiao
     FROM HR.LOCATIONS L
-    JOIN HR.COUNTRIES C
+    LEFT JOIN HR.COUNTRIES C
         ON L.COUNTRY_ID = C.COUNTRY_ID
-    JOIN HR.REGIONS R
+    LEFT JOIN HR.REGIONS R
         ON C.REGION_ID = R.REGION_ID
 ) 
 
-
 SELECT 
     D.DEPARTMENT_NAME AS departamento,
-    J.JOB_TITLE AS cargos,
+    J.JOB_TITLE AS cargo,
     DG.cidade,
-    DG.Pais,
+    DG.pais,
     DG.regiao,
     ROUND(AVG(E.SALARY),2) AS media_salarial
 FROM HR.EMPLOYEES E
-JOIN HR.DEPARTMENTS D
+LEFT JOIN HR.DEPARTMENTS D
     ON E.DEPARTMENT_ID = D.DEPARTMENT_ID
-JOIN HR.JOBS J
+LEFT JOIN HR.JOBS J
     ON E.JOB_ID = J.JOB_ID
-JOIN dados_geograficos DG
+LEFT JOIN dados_geograficos DG
     ON D.LOCATION_ID = DG.LOCATION_ID
-Where E.SALARY > 0
+WHERE E.SALARY > 0
 GROUP BY D.DEPARTMENT_NAME, J.JOB_TITLE, DG.cidade, DG.pais, DG.regiao
-ORDER BY media_salarial DESC
+ORDER BY media_salarial DESC;
