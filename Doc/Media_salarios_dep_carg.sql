@@ -1,3 +1,4 @@
+SELECT
     D.DEPARTMENT_NAME AS departamento,
     J.JOB_TITLE AS cargo,
     ROUND(AVG(E.SALARY),2) AS media_salarial
