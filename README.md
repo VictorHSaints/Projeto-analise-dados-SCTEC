@@ -1,5 +1,5 @@
 # Projeto-analise-dados-SCTEC
-Projeto final avaliativo do modulo de modelagem de dados do SCTEC
+Projeto final avaliativo do curso Analise e visualização de dados do modulo de modelagem de dados do SCTEC
 Victor Hugo dos Santos, turma 2
 ### Objetivo
 Objetivo foi explorar conhecimentos de SQL, analise exploratória de dados e criação de gráficos no python. A utilização do freeSQL para exportação das tabelas para analise, uso das bibliotecas pandas, matplotlib e seaborn usando as tabelas do esquema HR para buscar informações, organizar os dados e transformá-los em uma análise fácil de entender.
